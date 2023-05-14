@@ -6,4 +6,4 @@
 /misc           emmc     /dev/block/by-name/misc           flags=display=misc
 /recovery       emmc     /dev/block/by-name/recovery       flags=display=recovery
 /cache          ext4     /dev/block/by-name/cache          flags=display=cache
-/extsd          vfat     /dev/block/mmcblk0                flags=display=extsd
+/extsd          vfat     /dev/block/mmcblk0p1              flags=display=extsd
