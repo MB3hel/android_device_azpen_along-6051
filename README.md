@@ -1,3 +1,7 @@
+# WARNING: This is incomplete (abandoned) and will not work!!!
+
+
+
 # Android device tree for A746 A746 (along-6051)
 
 ```
